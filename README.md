@@ -1,2 +1,2 @@
 # Overlapping-Sequence-Detector-Using-Mealy-FSM
-Detects Overlapping Sequences
+Detects Overlapping Sequences using Mealy FSM
